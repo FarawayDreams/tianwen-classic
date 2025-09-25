@@ -30,10 +30,7 @@ function App() {
       <header className="header">
         <h1 className="title">天问</h1>
         <p className="subtitle">屈原 著</p>
-        <div style={{ marginTop: '20px', fontSize: '1rem', color: '#7f8c8d', lineHeight: '1.6' }}>
-          《天问》是屈原的代表作之一，共174句，以问句的形式对天地、自然、历史、神话等进行了深刻的思考和质疑。<br/>
-          点击任意句子可查看详细的注音、字义解析和句意解析。
-        </div>
+
       </header>
 
       <main>
