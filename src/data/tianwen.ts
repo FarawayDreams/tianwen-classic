@@ -19,7 +19,7 @@ export const tianwenData: Verse[] = [
     analysis: {
       pinyin: "yuē: suì gǔ zhī chū, shuí chuán dào zhī?",
       wordAnalysis: "曰：说，引出疑问；遂古：远古时代，指天地开辟之初；初：开始，起源；传道：传述记载，指流传下来的说法；之：代词，指远古之事",
-      sentenceAnalysis: "屈原开篇即问：在那遥远的古代，天地初开的时候，是谁把这开天辟地的消息传述下来的呢？这是对宇宙起源知识来源的根本质疑。"
+      sentenceAnalysis: "在那遥远的古代，天地初开的时候，是谁把这开天辟地的消息传述下来的呢？"
     }
   },
   {
@@ -28,7 +28,7 @@ export const tianwenData: Verse[] = [
     analysis: {
       pinyin: "shàng xià wèi xíng, hé yóu kǎo zhī?",
       wordAnalysis: "上下：指天地，古人认为天在上，地在下；未形：还没有形成，指混沌状态；何由：凭借什么，根据什么；考：考证，验证；之：代词，指天地未形的情况",
-      sentenceAnalysis: "当天地还没有成形，宇宙还处于混沌状态的时候，又能根据什么来考证验证呢？这进一步质疑了关于宇宙起源知识的可靠性。"
+      sentenceAnalysis: "当天地还没有成形，宇宙还处于混沌状态的时候，又能根据什么来考证验证呢？"
     }
   },
   {
@@ -37,7 +37,7 @@ export const tianwenData: Verse[] = [
     analysis: {
       pinyin: "míng zhāo méng àn, shuí néng jí zhī?",
       wordAnalysis: "冥昭：幽明，指明暗变化；瞢暗：昏昧暗淡，形容混沌状态；谁：什么人；能：能够；极：穷尽，探究到底；之：代词，指混沌的奥秘",
-      sentenceAnalysis: "宇宙在明暗交替、一片昏暗混沌之中，谁能够彻底探究其中的奥秘呢？这里描绘了原始宇宙的混沌景象。"
+      sentenceAnalysis: "宇宙在明暗交替、一片昏暗混沌之中，谁能够彻底探究其中的奥秘呢？'冥昭瞢暗'形容原始宇宙的混沌景象。"
     }
   },
   {
@@ -46,7 +46,7 @@ export const tianwenData: Verse[] = [
     analysis: {
       pinyin: "píng yì wéi xiàng, hé yǐ shí zhī?",
       wordAnalysis: "冯翼：依凭，凭借；惟：只是，仅仅；象：现象，表象；何以：凭什么，用什么方法；识：认识，了解；之：代词，指宇宙的真相",
-      sentenceAnalysis: "仅仅凭借表面的现象和形象，凭什么能够真正认识和了解宇宙的本质呢？屈原这里强调了现象与本质的区别。"
+      sentenceAnalysis: "仅仅凭借表面的现象和形象，凭什么能够真正认识和了解宇宙的本质呢？"
     }
   },
   {
@@ -55,7 +55,7 @@ export const tianwenData: Verse[] = [
     analysis: {
       pinyin: "míng míng àn àn, wéi shí hé wéi?",
       wordAnalysis: "明明暗暗：明暗反复变化，指昼夜更替或阴阳变化；惟：在；时：这个时候，指天地初开时；何为：做什么，为了什么",
-      sentenceAnalysis: "明明暗暗的反复变化，在天地初开的时候是为了什么目的呢？这是对宇宙运行规律目的性的追问。"
+      sentenceAnalysis: "明明暗暗的反复变化，在天地初开的时候是为了什么目的呢？"
     }
   },
   {
@@ -64,7 +64,7 @@ export const tianwenData: Verse[] = [
     analysis: {
       pinyin: "yīn yáng sān hé, hé běn hé huà?",
       wordAnalysis: "阴阳：阴气阳气，古代哲学的基本概念；三合：与天地人三才合一，或指阴阳与某种第三元素结合；何本：什么是根本；何化：什么是变化",
-      sentenceAnalysis: "阴阳二气和天地人三才相合，什么是根本什么是变化？这涉及中国古代哲学中阴阳学说和三才思想。"
+      sentenceAnalysis: "阴阳二气和天地人三才相合，什么是根本什么是变化？阴阳学说和三才思想是中国古代哲学的重要概念。"
     }
   },
   
@@ -75,7 +75,7 @@ export const tianwenData: Verse[] = [
     analysis: {
       pinyin: "yuán zé jiǔ zhòng, shú yíng duó zhī?",
       wordAnalysis: "圜则：圆形的法则，指天圆地方的宇宙观；九重：九层天，古代认为天有九重；孰：谁；营度：营造测量；之：代词，指九重天",
-      sentenceAnalysis: "天呈圆形分为九重，是谁营造和测量的呢？古代中国有'天圆地方'的宇宙观念，认为天空分为九重，这里追问这种宇宙结构的创造者。"
+      sentenceAnalysis: "天呈圆形分为九重，是谁营造和测量的呢？古代中国有'天圆地方'的宇宙观念，认为天空分为九重。"
     }
   },
   {
@@ -84,7 +84,7 @@ export const tianwenData: Verse[] = [
     analysis: {
       pinyin: "wéi zī hé gōng, shú chū zuò zhī?",
       wordAnalysis: "惟：思考，考虑；兹：这，指九重天；何功：什么样的功绩；孰：谁；初：最初；作：制作，创造；之：代词，指九重天",
-      sentenceAnalysis: "这九重天是何等伟大的功绩，是谁最初创造的呢？这是对宇宙创造者的赞叹和追问。"
+      sentenceAnalysis: "这九重天是何等伟大的功绩，是谁最初创造的呢？"
     }
   },
   {
@@ -93,7 +93,7 @@ export const tianwenData: Verse[] = [
     analysis: {
       pinyin: "wò wéi yān xì, tiān jí yān jiā?",
       wordAnalysis: "斡维：北斗七星的斗柄，古代用于指示方向；焉：在哪里；系：系住，固定；天极：天的中心，指北极星；焉：在哪里；加：安放",
-      sentenceAnalysis: "北斗的斗柄在哪里系住？天的中心又安放在哪里？北斗七星和北极星是古代重要的天文观测对象，这里询问天体运行的支撑点和中心位置。"
+      sentenceAnalysis: "北斗的斗柄在哪里系住？天的中心又安放在哪里？北斗七星和北极星是古代重要的天文观测对象。"
     }
   },
   {
@@ -102,7 +102,7 @@ export const tianwenData: Verse[] = [
     analysis: {
       pinyin: "bā zhù hé dāng, dōng nán hé kuī?",
       wordAnalysis: "八柱：古代神话中支撑天空的八根柱子；何当：对着什么，朝向哪里；东南：东南方向；何亏：为什么缺损不全",
-      sentenceAnalysis: "支撑天空的八根柱子各自对着什么方向？为什么东南方向有缺陷？这涉及古代'共工怒触不周山'的神话，传说共工撞倒不周山后，天柱折断，造成天倾西北、地陷东南的格局。"
+      sentenceAnalysis: "支撑天空的八根柱子各自对着什么方向？为什么东南方向有缺陷？古代神话'共工怒触不周山'：传说共工撞倒不周山后，天柱折断，造成天倾西北、地陷东南的格局。"
     }
   },
   {
@@ -111,7 +111,7 @@ export const tianwenData: Verse[] = [
     analysis: {
       pinyin: "jiǔ tiān zhī jì, ān fàng ān shǔ?",
       wordAnalysis: "九天：九重天，古代天文学概念；际：边际，边界；安：在哪里；放：放置；属：连接，依附",
-      sentenceAnalysis: "九重天的边际，在哪里放置又在哪里相互连接？这是对天体结构边界和层次关系的追问。"
+      sentenceAnalysis: "九重天的边际，在哪里放置又在哪里相互连接？"
     }
   },
   {
@@ -131,7 +131,7 @@ export const tianwenData: Verse[] = [
     analysis: {
       pinyin: "tiān hé suǒ tà, shí èr yān fēn?",
       wordAnalysis: "天：天空；何所：什么地方；沓：重叠，重合；十二：十二个，指十二时辰或十二个月；焉：怎么；分：分开，划分",
-      sentenceAnalysis: "天空在什么地方重叠？十二个时辰是怎么分开的？这涉及古代的时间观念，十二时辰制是中国古代重要的时间计量方法。"
+      sentenceAnalysis: "天空在什么地方重叠？十二个时辰是怎么分开的？十二时辰制是中国古代重要的时间计量方法。"
     }
   },
   {
@@ -149,7 +149,7 @@ export const tianwenData: Verse[] = [
     analysis: {
       pinyin: "chū zì tāng gǔ, cì yú méng sì.",
       wordAnalysis: "出：出来，升起；汤谷：神话中太阳升起的地方，传说在东方大海中的扶桑树下；次：停留，歇息；蒙汜：太阳落下的地方，在西方",
-      sentenceAnalysis: "太阳从东方的汤谷升起，在西方的蒙汜落下。汤谷和蒙汜都是中国古代神话中的地名，汤谷又称扶桑，是十个太阳居住的地方；蒙汜是太阳落山之处。"
+      sentenceAnalysis: "太阳从东方的汤谷升起，在西方的蒙汜落下。汤谷又称扶桑，是神话中十个太阳居住的地方；蒙汜是太阳落山之处。"
     }
   },
   {
@@ -167,7 +167,7 @@ export const tianwenData: Verse[] = [
     analysis: {
       pinyin: "yè guāng hé dé, sǐ zé yòu yù?",
       wordAnalysis: "夜光：月亮的美称，因月亮在夜晚发光而得名；何德：有什么德行；死：消失，指月亮的晦朔；则：就；又：重新；育：生长，指月相的盈满",
-      sentenceAnalysis: "月亮有什么德行，能够消失后又重新生长出来？这是对月相变化规律的疑问，古人观察到月亮有圆缺变化，用'死而复生'来形容这种现象。"
+      sentenceAnalysis: "月亮有什么德行，能够消失后又重新生长出来？古人观察到月亮有圆缺变化，用'死而复生'来形容这种现象。"
     }
   },
   {
@@ -176,7 +176,7 @@ export const tianwenData: Verse[] = [
     analysis: {
       pinyin: "jué lì wéi hé, ér gù tù zài fù?",
       wordAnalysis: "厥：它的；利：好处，作用；维何：是什么；而：却；顾菟：传说中居住在月亮里的兔子，即嫦娥的玉兔；在腹：在肚子里",
-      sentenceAnalysis: "月亮的作用是什么，为什么月兔要住在它的肚子里？这涉及中国古代关于月宫玉兔的神话传说，古人认为月亮上有玉兔在捣药，这里对这一神话提出疑问。"
+      sentenceAnalysis: "月亮的作用是什么，为什么月兔要住在它的肚子里？中国古代神话认为月亮上有玉兔在捣药。"
     }
   },
   {
@@ -223,7 +223,7 @@ export const tianwenData: Verse[] = [
     analysis: {
       pinyin: "bù rèn gǔ hóng, shī hé yǐ shàng zhī?",
       wordAnalysis: "不任：不能胜任；汩鸿：治理洪水，汩指水流湍急；师：众人，民众；何以：为什么；尚：推崇，赞美；之：他，指鲧",
-      sentenceAnalysis: "鲧不能胜任治理洪水的任务，民众为什么还要推崇他？这涉及鲧治水失败的神话故事，鲧用堵塞的方法治水九年而无功，最后被舜杀死，但民众仍然怀念他。"
+      sentenceAnalysis: "鲧不能胜任治理洪水的任务，民众为什么还要推崇他？鲧用堵塞的方法治水九年而无功，最后被舜杀死，但民众仍然怀念他。"
     }
   },
   {
@@ -526,7 +526,7 @@ export const tianwenData: Verse[] = [
     analysis: {
       pinyin: "yì yān bì rì, wū yān jiě yǔ?",
       wordAnalysis: "羿：后羿，古代神话英雄；焉：怎么；彃：射；日：太阳；乌：乌鸦，指太阳中的三足乌；焉：怎么；解羽：掉落羽毛",
-      sentenceAnalysis: "后羿怎么射下太阳，太阳中的三足乌怎么掉落羽毛？这涉及著名的'后羿射日'神话，传说天空中原有十个太阳，后羿射下九个，拯救了大地。"
+      sentenceAnalysis: "后羿怎么射下太阳，太阳中的三足乌怎么掉落羽毛？'后羿射日'神话：传说天空中原有十个太阳，后羿射下九个，拯救了大地。"
     }
   },
   {
@@ -1173,7 +1173,7 @@ export const tianwenData: Verse[] = [
     analysis: {
       pinyin: "bǐ gān hé nì, ér yì chén zhī?",
       wordAnalysis: "比干：商纣王的叔父，忠臣；何逆：有什么违逆；而：却；抑：压制；沈：沉没，这里指杀害；之：他",
-      sentenceAnalysis: "比干有什么违逆之处，却被压制杀害？比干是历史上著名的忠臣，因直谏而被纣王剖心而死。"
+      sentenceAnalysis: "比干有什么违逆之处，却被压制杀害？比干是商纣王的叔父，历史上著名的忠臣，因直谏而被纣王剖心而死。"
     }
   },
   {
